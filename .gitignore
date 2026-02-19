@@ -1,0 +1,6 @@
+__pycache__/
+data/raw/papers/
+data/cache/
+venv*/
+secret.py
+.DS_Store

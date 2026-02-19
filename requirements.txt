@@ -1,0 +1,20 @@
+# For download_papers.py
+requests
+requests-cache
+lxml
+tqdm
+
+# For text extraction
+pypdfium2
+rapidfuzz
+acora
+fuzzysearch
+
+# For labeling and figure generation
+pillow
+numpy
+pandas
+matplotlib
+
+# For scraping Steam stats
+scrapy

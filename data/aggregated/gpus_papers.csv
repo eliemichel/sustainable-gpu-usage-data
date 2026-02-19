@@ -1,0 +1,471 @@
+paper_ID,device
+2018/Atzmon et al. - 2018 - Point convolutional neural networks by extension operators,NVIDIA Tesla P100 PCIe 12 GB
+2018/Belcour - 2018 - Efficient rendering of layered materials using an atomic decomposition with statistical operators,NVIDIA GeForce GTX 980
+2018/Cirio et al. - 2018 - Multi-scale simulation of nonlinear thin-shell sound with wave turbulence,NVIDIA GeForce GTX 970
+2018/Deschaintre et al. - 2018 - Single-image SVBRDF capture with a rendering-aware deep network,NVIDIA GeForce GTX TITAN X
+2018/Dvoroz╠îna╠ük et al. - 2018 - Toonsynth example-based synthesis of hand-colored cartoon animations,NVIDIA GeForce GTX 750 Ti
+2018/Farchi and Ben-Chen - 2018 - Integer-only cross field computation,NVIDIA GeForce GTX 1080 Ti
+2018/Feng et al. - 2018 - Curved optimal delaunay triangulation,NVIDIA GeForce GTX 1060 5 GB
+2018/Han et al. - 2018 - Online optical marker-based hand tracking with deep labels,NVIDIA Tesla M40
+2018/Han et al. - 2018 - Online optical marker-based hand tracking with deep labels,NVIDIA GeForce GTX 1080 Ti
+2018/He et al. - 2018 - Deep exemplar-based colorization,NVIDIA TITAN Xp
+2018/He et al. - 2018 - Slang language mechanisms for extensible real-time shading systems,NVIDIA TITAN V
+2018/Hedman and Kopf - 2018 - Instant 3D photography,NVIDIA GeForce GTX TITAN X
+2018/Hedman and Kopf - 2018 - Instant 3D photography,NVIDIA GeForce GTX 1060 5 GB
+2018/Holden - 2018 - Robust solving of optical motion capture data by denoising,NVIDIA GeForce GTX 970
+2018/Jeschke et al. - 2018 - Water surface wavelets,NVIDIA GeForce GTX 1070
+2018/Kang et al. - 2018 - Efficient reflectance capture using an autoencoder,NVIDIA GeForce GTX 1080 Ti
+2018/Kenzel et al. - 2018 - A high-performance software graphics pipeline architecture for the GPU,NVIDIA GeForce GTX 1080
+2018/Kenzel et al. - 2018 - A high-performance software graphics pipeline architecture for the GPU,NVIDIA GeForce GTX 1080 Ti
+2018/Kenzel et al. - 2018 - A high-performance software graphics pipeline architecture for the GPU,NVIDIA GeForce GTX 980 Ti
+2018/Kim and Park - 2018 - Deep context-aware descreening and rescreening of halftone images,NVIDIA GeForce GTX 1080 Ti
+2018/Kim et al. - 2018 - Deep video portraits,NVIDIA TITAN Xp
+2018/Kim et al. - 2018 - Magnetization dynamics for magnetic object interactions,NVIDIA GeForce GTX 780
+2018/Langbehn et al. - 2018 - In the blink of an eye leveraging blink-induced suppression for imperceptible position and orientat,NVIDIA GeForce GTX 980 Ti
+2018/Langbehn et al. - 2018 - In the blink of an eye leveraging blink-induced suppression for imperceptible position and orientat,NVIDIA GeForce GTX 980
+2018/Leimku╠êhler et al. - 2018 - Laplacian kernel splatting for efficient depth-of-field and motion blur synthesis or reconstruction,NVIDIA GeForce GTX 980 Ti
+2018/Li et al. - 2018 - Differentiable programming for image processing and deep learning in halide,NVIDIA TITAN Xp
+2018/Li et al. - 2018 - Differentiable programming for image processing and deep learning in halide,NVIDIA TITAN X Pascal
+2018/Lin et al. - 2018 - Scale-aware black-and-white abstraction of 3D shapes,NVIDIA GeForce GTX 1070
+2018/Lindell et al. - 2018 - Single-photon 3D imaging with deep sensor fusion,NVIDIA GeForce GTX TITAN X
+2018/Liu et al. - 2018 - Object-aware guidance for autonomous scene reconstruction,NVIDIA GeForce GTX 1080
+2018/Lombardi et al. - 2018 - Deep appearance models for face rendering,NVIDIA GeForce GTX 1080
+2018/Lombardi et al. - 2018 - Deep appearance models for face rendering,NVIDIA Tesla M40
+2018/Ma et al. - 2018 - Fluid directed rigid body control using deep reinforcement learning,NVIDIA GeForce GTX 1080
+2018/Marti╠ünez et al. - 2018 - Polyhedral voronoi diagrams for additive manufacturing,NVIDIA GeForce GTX 1080
+2018/Nakada et al. - 2018 - Deep learning of biomimetic sensorimotor control for biomechanical human animation,NVIDIA GeForce GTX TITAN X
+2018/Peng et al. - 2018 - Designing patterns using triangle-quad hybrid meshes,NVIDIA GeForce GTX 1080
+2018/Poms et al. - 2018 - Scanner efficient video analysis at scale,NVIDIA TITAN Xp
+2018/Poms et al. - 2018 - Scanner efficient video analysis at scale,NVIDIA Tesla K80
+2018/Portenier et al. - 2018 - Faceshop deep sketch-based face image editing,NVIDIA TITAN Xp
+2018/Simo-Serra et al. - 2018 - Real-time data-driven interactive rough sketch inking,NVIDIA GeForce GTX 1080
+2018/Sitzmann et al. - 2018 - End-to-end optimization of optics and image processing for achromatic extended depth of field and su,NVIDIA TITAN X Pascal
+2018/Thies et al. - 2018 - Headon real-time reenactment of human portrait videos,NVIDIA GeForce GTX 1080 Ti
+2018/Vogels et al. - 2018 - Denoising with kernel prediction and asymmetric loss functions,NVIDIA TITAN X Pascal
+2018/Wadhwa et al. - 2018 - Synthetic depth-of-field with a single-camera mobile phone,NVIDIA GeForce GTX TITAN X
+2018/Wang - 2018 - Rule-free sewing pattern adjustment with precision and efficiency,NVIDIA GeForce GTX TITAN X
+2018/Wang and Ramamoorthi - 2018 - Analytic spherical harmonic coefficients for polygonal area lights,NVIDIA GeForce GTX 1080 Ti
+2018/Wang et al. - 2018 - Deep convolutional priors for indoor scene synthesis,NVIDIA GeForce GTX 1080 Ti
+2018/Wang et al. - 2018 - Megapixel adaptive optics towards correcting large-scale distortions in computational cameras,NVIDIA TITAN X Pascal
+2018/Whelan et al. - 2018 - Reconstructing scenes with mirror and glass surfaces,NVIDIA TITAN Xp
+"2018/Xie et al. - 2018 - tempoGAN a temporally coherent, volumetric GAN for super-resolution fluid flow",NVIDIA GeForce GTX 1080 Ti
+2018/Xu et al. - 2018 - Deep image-based relighting from optimal sparse samples,NVIDIA GeForce GTX 1080 Ti
+2018/Yamaguchi et al. - 2018 - High-fidelity facial reflectance and geometry inference from an unconstrained image,NVIDIA GeForce GTX 1080 Ti
+2018/Yin et al. - 2018 - P2P-NET bidirectional point displacement net for shape transform,NVIDIA TITAN Xp
+2018/Zhang et al. - 2018 - Mode-adaptive neural networks for quadruped motion control,NVIDIA GeForce GTX 970
+2018/Zhao et al. - 2018 - What characterizes personalities of graphic designs,NVIDIA TITAN X Pascal
+2018/Zhou et al. - 2018 - Non-stationary texture synthesis by adversarial expansion,NVIDIA TITAN Xp
+2018/Zhou et al. - 2018 - Stereo magnification learning view synthesis using multiplane images,NVIDIA Tesla P100 PCIe 12 GB
+2018/Zhou et al. - 2018 - Visemenet audio-driven animator-centric speech animation,NVIDIA GeForce GTX TITAN X
+2018/Zsolnai-Fehe╠ür et al. - 2018 - Gaussian material synthesis,NVIDIA GeForce GTX TITAN X
+2019/Aberman et al. - 2019 - Learning character-agnostic motion for motion retargeting in 2D,NVIDIA GeForce GTX TITAN
+2019/Adams et al. - 2019 - Learning to optimize halide with tree search and random programs,NVIDIA Tesla V100 PCIe 16 GB
+2019/Cse╠übfalvi - 2019 - Beyond trilinear interpolation higher quality for free,NVIDIA GeForce GT 720M
+2019/Friston et al. - 2019 - Perceptual rasterization for head-mounted display image synthesis,NVIDIA Quadro K6000
+2019/Friston et al. - 2019 - Perceptual rasterization for head-mounted display image synthesis,NVIDIA GeForce GTX 980
+2019/Fru╠êhstu╠êck et al. - 2019 - TileGAN synthesis of large-scale non-homogeneous textures,NVIDIA TITAN Xp
+2019/Fru╠êhstu╠êck et al. - 2019 - TileGAN synthesis of large-scale non-homogeneous textures,NVIDIA Tesla V100 PCIe 16 GB
+2019/GAO et al. - 2019 - Deep inverse rendering for high-resolution SVBRDF estimation from an arbitrary number of images,NVIDIA GeForce GTX 1080 Ti
+2019/Gharbi et al. - 2019 - Sample-based Monte Carlo denoising using a kernel-splatting network,NVIDIA TITAN X Pascal
+2019/Gharbi et al. - 2019 - Sample-based Monte Carlo denoising using a kernel-splatting network,NVIDIA TITAN Xp
+2019/Glauser et al. - 2019 - Interactive hand pose estimation using a stretch-sensing soft glove,NVIDIA GeForce GTX 1080 Ti
+2019/Hanocka et al. - 2019 - MeshCNN a network with an edge,NVIDIA GeForce GTX 1080 Ti
+2019/Huang et al. - 2019 - On the accurate large-scale simulation of ferrofluids,NVIDIA GeForce GTX 1080
+2019/Jamris╠îka et al. - 2019 - Stylizing video by example,NVIDIA GeForce GTX 1070
+2019/Jeon et al. - 2019 - Compact snapshot hyperspectral imaging with diffracted rotation,NVIDIA TITAN Xp
+2019/Kettunen et al. - 2019 - Deep convolutional reconstruction for gradient-domain rendering,NVIDIA Tesla V100 PCIe 16 GB
+2019/Kim et al. - 2019 - Foveated AR dynamically-foveated augmented reality display,NVIDIA GeForce RTX 2080 Ti
+2019/Lee et al. - 2019 - Scalable muscle-actuated human simulation and control,NVIDIA GeForce GTX 1070 Ti
+2019/Liu et al. - 2019 - Physically-based statistical simulation of rain sound,NVIDIA GeForce GTX 745 OEM
+2019/Liu et al. - 2019 - Spectral coarsening of geometric operators,NVIDIA GeForce GTX 1080
+2019/Lombardi et al. - 2019 - Neural volumes learning dynamic renderable volumes from images,NVIDIA Tesla V100 PCIe 16 GB
+2019/Makowski et al. - 2019 - Synthetic silviculture multi-scale modeling of plant ecosystems,NVIDIA GeForce GTX 1050
+2019/Meka et al. - 2019 - Deep reflectance fields high-quality facial reflectance field inference from color gradient illumin,NVIDIA TITAN Xp
+2019/Meka et al. - 2019 - Deep reflectance fields high-quality facial reflectance field inference from color gradient illumin,NVIDIA Tesla V100 PCIe 16 GB
+2019/Mildenhall et al. - 2019 - Local light field fusion practical view synthesis with prescriptive sampling guidelines,NVIDIA GeForce RTX 2080 Ti
+2019/Mildenhall et al. - 2019 - Local light field fusion practical view synthesis with prescriptive sampling guidelines,NVIDIA GeForce GTX 1080 Ti
+2019/Monszpart et al. - 2019 - iMapper interaction-guided scene mapping from monocular videos,NVIDIA TITAN X Pascal
+2019/Mueller et al. - 2019 - Real-time pose and shape reconstruction of two interacting hands with a single depth camera,NVIDIA Tesla V100 PCIe 16 GB
+2019/Mueller et al. - 2019 - Real-time pose and shape reconstruction of two interacting hands with a single depth camera,NVIDIA GeForce GTX 1080 Ti
+2019/Peters et al. - 2019 - Using moments to represent bounded signals for spectral rendering,NVIDIA GeForce RTX 2080 Ti
+2019/Pe╠ürard-Gayot et al. - 2019 - Rodent generating renderers without writing a generator,NVIDIA GeForce GTX TITAN X
+2019/Philip et al. - 2019 - Multi-view relighting using a geometry-aware network,NVIDIA GeForce GTX 1080
+2019/Philip et al. - 2019 - Multi-view relighting using a geometry-aware network,NVIDIA GeForce GTX 1080 Ti
+2019/Qu et al. - 2019 - Efficient and conservative fluids using bidirectional mapping,NVIDIA TITAN Xp
+2019/Sun et al. - 2019 - Single image portrait relighting,NVIDIA Tesla V100 PCIe 16 GB
+2019/Thies et al. - 2019 - Deferred neural rendering image synthesis using neural textures,NVIDIA GeForce GTX 1080 Ti
+2019/Tursun et al. - 2019 - Luminance-contrast-aware foveated rendering,NVIDIA GeForce RTX 2080 Ti
+2019/Wang and James - 2019 - KleinPAT optimal mode conflation for time-domain precomputation of acoustic transfer,NVIDIA GeForce GTX TITAN X
+2019/Wang et al. - 2019 - PlanIT planning and instantiating indoor scenes with relation graph and spatial prior networks,NVIDIA GeForce GTX 1080 Ti
+2019/Wei et al. - 2019 - VR facial animation via multiview image translation,NVIDIA GeForce GTX 1080 Ti
+2019/Wronski et al. - 2019 - Handheld multi-frame super-resolution,NVIDIA Tesla P100 PCIe 12 GB
+2019/Wronski et al. - 2019 - Handheld multi-frame super-resolution,NVIDIA GeForce GTX 980
+2019/Xu et al. - 2019 - Deep view synthesis from sparse photometric images,NVIDIA TITAN Xp
+2019/Xu et al. - 2019 - Deep view synthesis from sparse photometric images,NVIDIA GeForce GTX 1080 Ti
+2019/Zhang et al. - 2019 - InteractionFusion real-time reconstruction of hand poses and deformable objects in hand-object inte,NVIDIA TITAN Xp
+2019/Zhang et al. - 2019 - Synthetic defocus and look-ahead autofocus for casual videography,NVIDIA TITAN X Pascal
+2019/Zheng et al. - 2019 - Content-aware generative modeling of graphic design layouts,NVIDIA TITAN X Pascal
+2020/Aberman et al. - 2020 - Skeleton-aware networks for deep motion retargeting,NVIDIA TITAN Xp
+2020/Aberman et al. - 2020 - Unpaired motion style transfer from video to animation,NVIDIA TITAN Xp
+2020/Bailey et al. - 2020 - Fast and deep facial deformations,NVIDIA Quadro K5200
+2020/Bailey et al. - 2020 - Fast and deep facial deformations,NVIDIA GeForce GTX 1060 5 GB
+2020/Bitterli et al. - 2020 - Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting,NVIDIA GeForce RTX 2080 Ti
+2020/Bitterli et al. - 2020 - Spatiotemporal reservoir resampling for real-time ray tracing with dynamic direct lighting,NVIDIA TITAN RTX
+2020/Chen et al. - 2020 - DeepFaceDrawing deep generation of face images from sketches,NVIDIA GeForce GTX 1080 Ti
+2020/Chiu et al. - 2020 - Human-in-the-loop differential subspace search in high-dimensional latent space,NVIDIA GeForce GTX 1080
+2020/Fang et al. - 2020 - IQ-MPM an interface quadrature material point method for non-sticky strongly two-way coupled nonlin,NVIDIA GeForce GTX 1050 Ti
+2020/Granskog et al. - 2020 - Compositional neural scene representations for shading inference,NVIDIA RTX A6000
+2020/Granskog et al. - 2020 - Compositional neural scene representations for shading inference,NVIDIA Tesla V100 PCIe 16 GB
+2020/Han et al. - 2020 - MEgATrack monochrome egocentric articulated hand-tracking for virtual reality,NVIDIA GeForce GTX 1080
+2020/Hanocka et al. - 2020 - Point2Mesh a self-prior for deformable meshes,NVIDIA GeForce GTX 1080 Ti
+2020/Huang et al. - 2020 - Chemomechanical simulation of soap film flow on spherical bubbles,NVIDIA GeForce GTX 1080
+2020/Jiang et al. - 2020 - Example-driven virtual cinematography by learning camera behaviors,NVIDIA TITAN Xp
+2020/Keeter - 2020 - Massively parallel rendering of complex closed-form implicit surfaces,NVIDIA GeForce GT 750M
+2020/Keeter - 2020 - Massively parallel rendering of complex closed-form implicit surfaces,NVIDIA Tesla V100 PCIe 16 GB
+2020/Keeter - 2020 - Massively parallel rendering of complex closed-form implicit surfaces,NVIDIA GeForce GTX 1080 Ti
+2020/Kim et al. - 2020 - Lagrangian neural style transfer for fluids,NVIDIA TITAN Xp
+2020/Kopf et al. - 2020 - One shot 3D photography,NVIDIA Tesla V100 PCIe 16 GB
+2020/Kuo et al. - 2020 - High resolution e╠ütendue expansion for holographic displays,NVIDIA GeForce GTX 1060 5 GB
+2020/Li et al. - 2020 - Exertion-aware path generation,NVIDIA GeForce RTX 2070
+2020/Li et al. - 2020 - Exertion-aware path generation,NVIDIA GeForce GTX 1070
+2020/Li et al. - 2020 - Fast and scalable turbulent flow simulation with two-way coupling,NVIDIA TITAN Xp
+2020/Li et al. - 2020 - Fast and scalable turbulent flow simulation with two-way coupling,NVIDIA Tesla P40
+2020/Li et al. - 2020 - Fast and scalable turbulent flow simulation with two-way coupling,NVIDIA GeForce RTX 2080 Ti
+2020/Ling et al. - 2020 - Character controllers using motion VAEs,NVIDIA GeForce GTX 1060 5 GB
+2020/Luo et al. - 2020 - Consistent video depth estimation,NVIDIA Tesla M40
+2020/Mehta et al. - 2020 - XNect real-time multi-person 3D motion capture with a single RGB camera,NVIDIA TITAN X Pascal
+2020/Mehta et al. - 2020 - XNect real-time multi-person 3D motion capture with a single RGB camera,NVIDIA GeForce RTX 2080 Max-Q
+2020/Mehta et al. - 2020 - XNect real-time multi-person 3D motion capture with a single RGB camera,NVIDIA Tesla K80
+2020/Mehta et al. - 2020 - XNect real-time multi-person 3D motion capture with a single RGB camera,NVIDIA GeForce GTX 1080 Ti
+2020/Mehta et al. - 2020 - XNect real-time multi-person 3D motion capture with a single RGB camera,NVIDIA GeForce GTX 1080 Max-Q
+2020/Nimier-David et al. - 2020 - Radiative backpropagation an adjoint method for lightning-fast differentiable rendering,NVIDIA GeForce RTX 2080 Ti
+2020/Plasencia et al. - 2020 - GS-PAT high-speed multi-point sound-fields for phased arrays of transducers,NVIDIA RTX A2000
+2020/Plasencia et al. - 2020 - GS-PAT high-speed multi-point sound-fields for phased arrays of transducers,NVIDIA GeForce GTX 1660
+2020/Plasencia et al. - 2020 - GS-PAT high-speed multi-point sound-fields for phased arrays of transducers,NVIDIA GeForce GTX 1050
+2020/Plasencia et al. - 2020 - GS-PAT high-speed multi-point sound-fields for phased arrays of transducers,NVIDIA GeForce GTX 1660 Ti
+2020/Santos et al. - 2020 - Single image HDR reconstruction using a CNN with masked features and perceptual loss,NVIDIA GeForce GTX 1080 Ti
+2020/Sa╠ünchez-Banderas et al. - 2020 - Robust eulerian-on-lagrangian rods,NVIDIA GeForce GTX 1080 Ti
+2020/Schwartz et al. - 2020 - The eyes have it an integrated eye and face model for photorealistic facial animation,NVIDIA GeForce GTX 1080 Ti
+2020/Sella╠ün et al. - 2020 - Developability of heightfields via rank minimization,NVIDIA GeForce GTX 970
+2020/Sendik et al. - 2020 - Unsupervised K-modal styled content generation,NVIDIA GeForce GTX 1080 Ti
+2020/Sendik et al. - 2020 - Unsupervised K-modal styled content generation,NVIDIA GeForce RTX 2080 Ti
+"2020/Shugrina et al. - 2020 - Nonlinear color triads for approximation, learning and direct manipulation of color distributions",NVIDIA GeForce GTX TITAN X
+2020/Song et al. - 2020 - Accurate face rig approximation with deep differential subspace reconstruction,NVIDIA GeForce RTX 2080
+2020/Starke et al. - 2020 - Local motion phases for learning multi-contact character movements,NVIDIA GeForce RTX 2080
+2020/Texler et al. - 2020 - Interactive video stylization using few-shot patch-based training,NVIDIA Tesla V100S PCIe 32 GB
+2020/Texler et al. - 2020 - Interactive video stylization using few-shot patch-based training,NVIDIA GeForce RTX 2080
+2020/Wang et al. - 2020 - A massively parallel and scalable multi-GPU material point method,NVIDIA Quadro P6000
+2020/Wang et al. - 2020 - A massively parallel and scalable multi-GPU material point method,NVIDIA GeForce RTX 2080
+2020/Wang et al. - 2020 - Attribute2Font creating fonts you want from attributes,NVIDIA GeForce RTX 2080 Ti
+2020/Wang et al. - 2020 - Codimensional surface tension flow using moving-least-squares particles,NVIDIA GeForce GTX 1060 5 GB
+2020/Wu et al. - 2020 - Analytic spherical harmonic gradients for real-time rendering with many polygonal area lights,NVIDIA GeForce RTX 2080 Ti
+2020/Xiao et al. - 2020 - Neural supersampling for real-time rendering,NVIDIA TITAN RTX
+2020/Xiao et al. - 2020 - Neural supersampling for real-time rendering,NVIDIA TITAN V
+2020/Xu et al. - 2020 - TilinGNN learning to tile with self-supervised graph neural network,NVIDIA TITAN Xp
+2020/Zhang et al. - 2020 - Path-space differentiable rendering,NVIDIA TITAN RTX
+2021/Abdrashitov et al. - 2021 - Interactive modelling of volumetric musculoskeletal anatomy,NVIDIA GeForce GTX 1080
+2021/Adams - 2021 - Fast median filters using separable sorting networks,NVIDIA GeForce RTX 2060
+2021/Bagautdinov et al. - 2021 - Driving-signal aware full-body avatars,NVIDIA Tesla V100 PCIe 16 GB
+2021/Barton╠î et al. - 2021 - Geometry and tool motion planning for curvature adapted CNC machining,NVIDIA Tesla K40c
+2021/Bi et al. - 2021 - Deep relightable appearance models for animatable faces,NVIDIA Tesla V100 PCIe 16 GB
+2021/Cao et al. - 2021 - Real-time 3D neural facial animation from binocular video,NVIDIA GeForce RTX 2080
+2021/Chen et al. - 2021 - Capturing detailed deformations of moving human bodies,NVIDIA TITAN RTX
+2021/Chen et al. - 2021 - Capturing detailed deformations of moving human bodies,NVIDIA GeForce GTX 1080
+2021/Chen et al. - 2021 - DeepFaceEditing deep face generation and editing with disentangled geometry and appearance control,NVIDIA GeForce RTX 2080 Ti
+2021/Chen et al. - 2021 - MoCap-solver a neural solver for optical motion capture data,NVIDIA GeForce RTX 2080 Ti
+2021/Cho et al. - 2021 - Weakly-supervised contrastive learning in path manifold for Monte Carlo image reconstruction,NVIDIA Quadro RTX 8000
+2021/Cho et al. - 2021 - Weakly-supervised contrastive learning in path manifold for Monte Carlo image reconstruction,NVIDIA TITAN RTX
+2021/Chu et al. - 2021 - Learning meaningful controls for fluids,NVIDIA Tesla V100 PCIe 16 GB
+2021/Ecormier-Nocca et al. - 2021 - Authoring consistent landscapes with flora and fauna,NVIDIA Quadro M2000
+2021/Fei et al. - 2021 - Revisiting integration in the material point method a scheme for easier separation and less dissipa,NVIDIA GeForce RTX 2080 Ti
+2021/Feng et al. - 2021 - Learning an animatable detailed 3D face model from in-the-wild images,NVIDIA Quadro RTX 5000
+2021/Gal et al. - 2021 - SWAGAN a style-based wavelet-driven generative model,NVIDIA GeForce RTX 2080
+2021/Granskog et al. - 2021 - Neural scene graph rendering,NVIDIA Tesla V100 PCIe 16 GB
+2021/Guo et al. - 2021 - Highlight-aware two-stream network for single-image SVBRDF acquisition,NVIDIA GeForce RTX 2080 Ti
+2021/Guo et al. - 2021 - Highlight-aware two-stream network for single-image SVBRDF acquisition,NVIDIA Tesla V100 PCIe 16 GB
+2021/Guo et al. - 2021 - Volumetric appearance stylization with stylizing kernel prediction network,NVIDIA Tesla V100 PCIe 16 GB
+2021/Guo et al. - 2021 - Volumetric appearance stylization with stylizing kernel prediction network,NVIDIA GeForce RTX 2080 Ti
+2021/Habermann et al. - 2021 - Real-time deep dynamic characters,NVIDIA Quadro RTX 8000
+2021/Ha╠êdrich et al. - 2021 - Fire in paradise mesoscale simulation of wildfires,NVIDIA GeForce GTX 1080
+2021/Hu et al. - 2021 - QuanTaichi a compiler for quantized simulations,NVIDIA GeForce RTX 3080
+2021/Hu et al. - 2021 - QuanTaichi a compiler for quantized simulations,NVIDIA GeForce RTX 3090
+2021/Is╠º─▒k et al. - 2021 - Interactive Monte Carlo denoising using affinity of neural features,NVIDIA GeForce RTX 2080 Ti
+2021/Jang et al. - 2021 - StyleCariGAN caricature generation via StyleGAN feature map modulation,NVIDIA Quadro RTX 8000
+2021/Jones et al. - 2021 - ShapeMOD macro operation discovery for 3D shape programs,NVIDIA GeForce RTX 2080 Ti
+2021/Kettunen et al. - 2021 - An unbiased ray-marching transmittance estimator,NVIDIA Quadro RTX 6000
+2021/kim and Choi - 2021 - Dynamic closest color warping to sort and compare palettes,NVIDIA GeForce RTX 2080
+2021/Kim and Singh - 2021 - Optimizing UI layouts for deformable face-rig manipulation,NVIDIA GeForce GTX 1080
+2021/Kuznetsov et al. - 2021 - NeuMIP multi-resolution neural materials,NVIDIA GeForce RTX 2080 Ti
+2021/Lan et al. - 2021 - Medial IPC accelerated incremental potential contact with medial elastics,NVIDIA TITAN RTX
+2021/Le et al. - 2021 - Direct delta mush skinning compression with continuous examples,NVIDIA GeForce RTX 3090
+2021/Lee et al. - 2021 - Learning time-critical responses for interactive character control,NVIDIA GeForce RTX 2080 Ti
+2021/Lewis et al. - 2021 - TryOnGAN body-aware try-on via layered interpolation,NVIDIA Tesla V100 PCIe 16 GB
+2021/Li et al. - 2021 - Learning skeletal articulations with neural blend shapes,NVIDIA TITAN Xp
+2021/Li et al. - 2021 - SP-GAN sphere-guided 3D shape generation and manipulation,NVIDIA TITAN Xp
+2021/Liao et al. - 2021 - Real-time locally injective volumetric deformation,NVIDIA TITAN RTX
+2021/Lombardi et al. - 2021 - Mixture of volumetric primitives for efficient neural rendering,NVIDIA Tesla V100 PCIe 16 GB
+2021/Ma et al. - 2021 - Free-form scanning of non-planar appearance with neural trace photography,NVIDIA GeForce RTX 3090
+2021/Mahmoud et al. - 2021 - RXMesh a GPU mesh data structure,NVIDIA Tesla V100 PCIe 16 GB
+2021/Mantiuk et al. - 2021 - FovVideoVDP a visible difference predictor for wide field-of-view video,NVIDIA GeForce RTX 2080
+2021/Mantiuk et al. - 2021 - FovVideoVDP a visible difference predictor for wide field-of-view video,NVIDIA Tesla P100 PCIe 12 GB
+2021/Martel et al. - 2021 - Acorn adaptive coordinate networks for neural scene representation,NVIDIA TITAN V
+2021/Martel et al. - 2021 - Acorn adaptive coordinate networks for neural scene representation,NVIDIA RTX A6000
+2021/Mo et al. - 2021 - General virtual sketching framework for vector line art,NVIDIA GeForce RTX 2070
+2021/Mu╠êller et al. - 2021 - Real-time neural radiance caching for path tracing,NVIDIA GeForce RTX 3090
+2021/Nindel et al. - 2021 - A gradient-based framework for 3D print appearance optimization,NVIDIA TITAN RTX
+2021/Nindel et al. - 2021 - A gradient-based framework for 3D print appearance optimization,NVIDIA GeForce RTX 3080
+2021/Pandey et al. - 2021 - Total relighting learning to relight portraits for background replacement,NVIDIA Tesla V100 PCIe 16 GB
+2021/Pandey et al. - 2021 - Total relighting learning to relight portraits for background replacement,NVIDIA Quadro P6000
+2021/Peters - 2021 - BRDF importance sampling for polygonal lights,NVIDIA GeForce RTX 2080 Ti
+2021/Qu and James - 2021 - Fast linking numbers for topology verification of loopy structures,NVIDIA GeForce GTX 1080
+2021/R et al. - 2021 - PhotoApp photorealistic appearance editing of head portraits,NVIDIA Quadro RTX 8000
+2021/R et al. - 2021 - PhotoApp photorealistic appearance editing of head portraits,NVIDIA Tesla V100 PCIe 16 GB
+2021/Ren et al. - 2021 - Unified particle system for multiple-fluid flow and porous material,NVIDIA GeForce GTX 1080 Ti
+2021/Ruan et al. - 2021 - Solid-fluid interaction with surface-tension-dominant contact,NVIDIA GeForce RTX 2070
+2021/Ruan et al. - 2021 - Solid-fluid interaction with surface-tension-dominant contact,NVIDIA Quadro RTX 8000
+2021/Shen et al. - 2021 - High-order differentiable autoencoder for nonlinear model reduction,NVIDIA GeForce RTX 2080
+2021/Shimada et al. - 2021 - Neural monocular 3D human motion capture with physical awareness,NVIDIA Quadro RTX 8000
+2021/Song et al. - 2021 - AgileGAN stylizing portraits by inversion-consistent transfer learning,NVIDIA Tesla V100 PCIe 16 GB
+2021/Sperl et al. - 2021 - Mechanics-aware deformation of yarn pattern geometry,NVIDIA GeForce GTX 1080 Ti
+2021/Srinivasan et al. - 2021 - Learning active quasistatic physics-based models from data,NVIDIA Quadro RTX 8000
+2021/Starke et al. - 2021 - Neural animation layering for synthesizing martial arts movements,NVIDIA GeForce RTX 2080
+2021/Sun et al. - 2021 - End-to-end complex lens design with differentiate ray tracing,NVIDIA TITAN RTX
+2021/Tov et al. - 2021 - Designing an encoder for StyleGAN image manipulation,NVIDIA Tesla P40
+2021/Trusty et al. - 2021 - The shape matching element method direct animation of curved surface models,Intel Iris Plus Graphics 655 Mobile
+2021/Vicini et al. - 2021 - A non-exponential transmittance model for volumetric scene representations,NVIDIA TITAN RTX
+2021/Vicini et al. - 2021 - Path replay backpropagation differentiating light paths using constant memory and linear time,NVIDIA TITAN RTX
+2021/Walton et al. - 2021 - Beyond blur real-time ventral metamers for foveated rendering,NVIDIA GeForce RTX 2080 Ti
+2021/Walton et al. - 2021 - Beyond blur real-time ventral metamers for foveated rendering,NVIDIA GeForce RTX 2080
+2021/Walton et al. - 2021 - Beyond blur real-time ventral metamers for foveated rendering,NVIDIA GeForce GTX 1650 Ti Mobile
+2021/Wang - 2021 - GPU-based simulation of cloth wrinkles at submillimeter levels,NVIDIA TITAN Xp
+2021/Wang - 2021 - GPU-based simulation of cloth wrinkles at submillimeter levels,NVIDIA GeForce RTX 2080 Ti
+2021/Willis et al. - 2021 - Fusion 360 gallery a dataset and environment for programmatic CAD construction from human design se,NVIDIA Tesla V100 PCIe 16 GB
+2021/Wu et al. - 2021 - Coarse-to-fine facial structure editing of portrait images via latent space classifications,NVIDIA GeForce RTX 2060
+2021/Xiong et al. - 2021 - Incompressible flow simulation on vortex segment clouds,NVIDIA GeForce RTX 2080 Ti
+2021/Xu et al. - 2021 - Scalable image-based indoor scene rendering with reflections,NVIDIA GeForce RTX 2080 Ti
+2021/Yaldiz et al. - 2021 - DeepFormableTag end-to-end generation and recognition of deformable fiducial markers,NVIDIA TITAN RTX
+2021/Yang and Chen - 2021 - Unsupervised learning for cuboid shape abstraction via joint segmentation from point clouds,NVIDIA GeForce GTX 1080 Ti
+2021/Yang et al. - 2021 - Clebsch gauge fluid,NVIDIA Quadro RTX 8000
+2021/Yang et al. - 2021 - Clebsch gauge fluid,NVIDIA GeForce RTX 2070
+2021/Yi et al. - 2021 - TransPose real-time 3D human translation and pose estimation with six inertial sensors,NVIDIA GeForce RTX 2080 SUPER
+2021/Yi et al. - 2021 - TransPose real-time 3D human translation and pose estimation with six inertial sensors,NVIDIA GeForce GTX 1080 Ti
+2021/Yin et al. - 2021 - Discovering diverse athletic jumping strategies,NVIDIA GeForce GTX 1080
+2021/Yin et al. - 2021 - Discovering diverse athletic jumping strategies,NVIDIA Quadro RTX 6000
+2021/Zeltner et al. - 2021 - Monte Carlo estimators for differential light transport,NVIDIA TITAN RTX
+2021/Zhang et al. - 2021 - Consistent depth of moving objects in video,NVIDIA Tesla P100 PCIe 12 GB
+2021/Zhang et al. - 2021 - Editable free-viewpoint video using a layered neural representation,NVIDIA GeForce RTX 3090
+2021/Zhang et al. - 2021 - ManipNet neural manipulation synthesis with a hand-object spatial representation,NVIDIA GeForce RTX 2080
+2021/Zhang et al. - 2021 - ROSEFusion random optimization for online dense reconstruction under fast camera motion,NVIDIA GeForce RTX 2080 SUPER
+2021/Zhu et al. - 2021 - Hierarchical neural reconstruction for path guiding using hybrid path and photon samples,NVIDIA TITAN RTX
+2021/Zhu et al. - 2021 - Neural complex luminaires representation and rendering,NVIDIA GeForce RTX 3090
+2021/Zhu et al. - 2021 - Neural complex luminaires representation and rendering,NVIDIA GeForce RTX 2080 Ti
+2022/Aigerman et al. - 2022 - Neural jacobian fields learning intrinsic mappings of arbitrary meshes,NVIDIA Tesla V100 PCIe 16 GB
+2022/Ansari et al. - 2022 - Mixed integer neural inverse design,NVIDIA TITAN Xp
+2022/Ansari et al. - 2022 - Mixed integer neural inverse design,NVIDIA GeForce GTX TITAN X
+2022/Brodt and Bessmeltsev - 2022 - Sketch2Pose estimating a 3D character pose from a bitmap sketch,NVIDIA GeForce RTX 2080 Ti
+2022/Cao et al. - 2022 - Authentic volumetric avatars from a phone scan,NVIDIA Tesla V100 PCIe 16 GB
+2022/Chen et al. - 2022 - A unified newton barrier method for multibody dynamics,NVIDIA GeForce RTX 3090
+2022/Chen et al. - 2022 - Neural dual contouring,NVIDIA GeForce GTX 1080 Ti
+2022/Chen et al. - 2022 - Neural dual contouring,NVIDIA GeForce RTX 3090
+2022/Chu et al. - 2022 - Physics informed neural fields for smoke reconstruction with sparse data,NVIDIA Quadro RTX 8000
+2022/Duinkharjav et al. - 2022 - Image features influence reaction time a learned probabilistic perceptual model for saccade latency,NVIDIA GeForce RTX 3090
+2022/Guo et al. - 2022 - ComplexGen CAD reconstruction by B-rep chain complex generation,NVIDIA Tesla V100 PCIe 16 GB
+2022/Härkönen et al. - 2022 - Disentangling random and cyclic effects in time-lapse sequences,NVIDIA Tesla V100 PCIe 16 GB
+2022/Hertz et al. - 2022 - SPAGHETTI editing implicit shapes through part aware generation,NVIDIA RTX A6000
+2022/Hou et al. - 2022 - Iterative poisson surface reconstruction (iPSR) for unoriented points,NVIDIA GeForce RTX 3090
+2022/Hwang et al. - 2022 - Sparse ellipsometry portable acquisition of polarimetric SVBRDF and shape with unstructured flash p,NVIDIA TITAN RTX
+2022/Jakob et al. - 2022 - DR.JIT a just-in-time compiler for differentiable rendering,NVIDIA RTX A6000
+2022/Jang et al. - 2022 - Egocentric scene reconstruction from an omnidirectional video,NVIDIA TITAN RTX
+2022/Jeon et al. - 2022 - Dynamic optimal space partitioning for redirected walking in multi-user environment,NVIDIA GeForce RTX 3090
+2022/Jiang et al. - 2022 - Text2Human text-driven controllable human image generation,NVIDIA Tesla V100 PCIe 16 GB
+2022/Jin et al. - 2022 - NeuralSound learning-based modal sound synthesis with acoustic transfer,NVIDIA GeForce RTX 3080 Ti
+2022/Kim et al. - 2022 - Accommodative holography improving accommodation response for perceptually realistic holographic di,NVIDIA GeForce RTX 3080 Ti
+2022/Kim et al. - 2022 - Modeling and rendering non-euclidean spaces approximated with concatenated polytopes,NVIDIA GeForce RTX 3090
+2022/Korosteleva and Lee - 2022 - NeuralTailor reconstructing sewing pattern structures from 3D point clouds of garments,NVIDIA TITAN Xp
+2022/Kuang et al. - 2022 - NeROIC neural rendering of objects from online image collections,NVIDIA Tesla V100 PCIe 16 GB
+2022/Lai et al. - 2022 - Face deblurring using dual camera fusion on mobile phones,NVIDIA Quadro P5000
+"2022/Lan et al. - 2022 - Affine body dynamics fast, stable and intersection-free simulation of stiff materials",NVIDIA GeForce RTX 3090
+2022/Lan et al. - 2022 - Penetration-free projective dynamics on the GPU,NVIDIA GeForce RTX 3090
+2022/Lecouat et al. - 2022 - High dynamic range and super-resolution from raw image bursts,NVIDIA TITAN RTX
+2022/Li et al. - 2022 - Efficient kinetic simulation of two-phase flows,NVIDIA RTX A6000
+2022/Li et al. - 2022 - Efficient kinetic simulation of two-phase flows,NVIDIA GeForce GTX 1080 Ti
+"2022/Li et al. - 2022 - EyeNeRF a hybrid representation for photorealistic synthesis, animation and relighting of human eye",NVIDIA Tesla V100 PCIe 16 GB
+2022/Li et al. - 2022 - Free2CAD parsing freehand drawings into CAD commands,NVIDIA GeForce GTX TITAN
+2022/Li et al. - 2022 - Free2CAD parsing freehand drawings into CAD commands,NVIDIA GeForce RTX 2070 SUPER
+2022/Li et al. - 2022 - GANimator neural motion synthesis from a single sequence,NVIDIA GeForce RTX 2080
+2022/Li et al. - 2022 - Interactive augmented reality storytelling guided by scene semantics,NVIDIA GeForce RTX 2070
+2022/Li et al. - 2022 - NIMBLE a non-rigid hand model with bones and muscles,NVIDIA GeForce RTX 3090
+2022/Lin et al. - 2022 - Generalized resampled importance sampling foundations of ReSTIR,NVIDIA GeForce RTX 3090
+2022/Liu et al. - 2022 - ASSET autoregressive semantic scene editing with transformers at high resolutions,NVIDIA A100 PCIe 40 GB
+2022/Liu et al. - 2022 - Automatic quantization for physics-based simulation,NVIDIA GeForce RTX 3090
+2022/Liu et al. - 2022 - Automatic quantization for physics-based simulation,NVIDIA GeForce GTX 1080 Ti
+2022/Liu et al. - 2022 - DeepFaceVideoEditing sketch-based deep editing of face videos,NVIDIA GeForce RTX 2080 Ti
+2022/Luo et al. - 2022 - Artemis articulated neural pets with appearance and motion synthesis,NVIDIA TITAN RTX
+2022/Luo et al. - 2022 - Artemis articulated neural pets with appearance and motion synthesis,NVIDIA GeForce RTX 3090
+2022/Madan and Levin - 2022 - Fast evaluation of smooth distance constraints on co-dimensional geometry,NVIDIA TITAN RTX
+2022/Matveev et al. - 2022 - DEF deep estimation of sharp geometric features in 3D shapes,NVIDIA Tesla V100 PCIe 16 GB
+2022/Müller et al. - 2022 - Instant neural graphics primitives with a multiresolution hash encoding,NVIDIA GeForce RTX 3090
+2022/Nabizadeh et al. - 2022 - Covector fluids,NVIDIA GeForce RTX 2080
+2022/Nguyen-Phuoc et al. - 2022 - SNeRF stylized neural implicit representations for 3D scenes,NVIDIA Tesla V100 PCIe 16 GB
+2022/Nimier-David et al. - 2022 - Unbiased inverse volume rendering with differential trackers,NVIDIA GeForce RTX 3090
+2022/Pałubicki et al. - 2022 - Ecoclimates climate-response modeling of vegetation,NVIDIA GeForce GTX 1050
+2022/Peng et al. - 2022 - ASE large-scale reusable adversarial skill embeddings for physically simulated characters,NVIDIA Tesla V100 PCIe 16 GB
+2022/Rodríguez and Cirio - 2022 - True seams modeling seams in digital garments,NVIDIA GeForce GTX 1080
+2022/Rückert et al. - 2022 - ADOP approximate differentiable one-pixel point rendering,NVIDIA A100 PCIe 40 GB
+2022/Rückert et al. - 2022 - ADOP approximate differentiable one-pixel point rendering,NVIDIA GeForce RTX 3080
+2022/Rückert et al. - 2022 - ADOP approximate differentiable one-pixel point rendering,NVIDIA GeForce RTX 2080 Ti
+2022/Starke et al. - 2022 - DeepPhase periodic autoencoders for learning motion phase manifolds,NVIDIA GeForce RTX 3080
+2022/Su et al. - 2022 - SPCBPT subspace-based probabilistic connections for bidirectional path tracing,NVIDIA GeForce RTX 2080 SUPER
+2022/Sun et al. - 2022 - WallPlan synthesizing floorplans by learning to generate wall graphs,NVIDIA GeForce RTX 3090
+2022/Tang et al. - 2022 - Real-time controllable motion transition for characters,NVIDIA GeForce RTX 2080
+2022/Tariq et al. - 2022 - Noise-based enhancement for foveated rendering,NVIDIA GeForce RTX 2080
+2022/Teh et al. - 2022 - Adjoint nonlinear ray tracing,NVIDIA GeForce RTX 3090
+2022/Vicini et al. - 2022 - Differentiable signed distance function rendering,NVIDIA TITAN RTX
+"2022/Vilesov et al. - 2022 - Blending camera and 77 GHz radar sensing for equitable, robust plethysmography",NVIDIA Tesla P100 PCIe 12 GB
+2022/Wang et al. - 2022 - Dual octree graph networks for learning adaptive volumetric shape representations,NVIDIA Tesla V100 PCIe 16 GB
+2022/Wang et al. - 2022 - Position-free multiple-bounce computations for smith microfacet BSDFs,NVIDIA GeForce RTX 2080 Ti
+2022/Wang et al. - 2022 - Rewriting geometric rules of a GAN,NVIDIA RTX A5000
+2022/Wiersma et al. - 2022 - DeltaConv anisotropic operators for geometric deep learning on point clouds,NVIDIA GeForce RTX 2080 Ti
+2022/Wolski et al. - 2022 - Dark stereo improving depth perception under low luminance,NVIDIA GeForce GTX 1080
+2022/Won et al. - 2022 - Physics-based character controllers using conditional VAEs,NVIDIA Quadro GP100
+2022/Wu et al. - 2022 - A GPU-based multilevel additive schwarz preconditioner for cloth and deformable body simulation,NVIDIA GeForce RTX 3080
+2022/Wu et al. - 2022 - Scalable neural indoor scene rendering,NVIDIA GeForce RTX 3090
+2022/Wu et al. - 2022 - Scalable neural indoor scene rendering,NVIDIA Tesla V100 PCIe 16 GB
+2022/Xiong et al. - 2022 - A clebsch method for free-surface vortical flow simulation,NVIDIA Quadro RTX 8000
+2022/Xiong et al. - 2022 - A clebsch method for free-surface vortical flow simulation,NVIDIA Tesla V100 PCIe 16 GB
+2022/Xiong et al. - 2022 - A clebsch method for free-surface vortical flow simulation,NVIDIA GeForce RTX 2080 Ti
+2022/Xiong et al. - 2022 - A clebsch method for free-surface vortical flow simulation,NVIDIA GeForce RTX 2070
+2022/Yan et al. - 2022 - Efficient estimation of boundary integrals for path-space differentiable rendering,NVIDIA TITAN RTX
+2022/Yang et al. - 2022 - Implicit neural representation for physics-driven actuated soft bodies,NVIDIA GeForce RTX 2080 Ti
+2022/Yang et al. - 2022 - Neural rendering in a room amodal 3D understanding and free-viewpoint rendering for the closed scen,NVIDIA GeForce RTX 3090
+2022/Zhi et al. - 2022 - Semantically supervised appearance decomposition for virtual staging from a single panorama,NVIDIA TITAN Xp
+2023/Ao et al. - 2023 - GestureDiffuCLIP Gesture Diffusion Model with CLIP Latents,NVIDIA Tesla V100 PCIe 16 GB
+2023/Avrahami et al. - 2023 - Blended Latent Diffusion,NVIDIA A10 PCIe
+2023/Benchekroun et al. - 2023 - Fast Complementary Dynamics via Skinning Eigenmodes,NVIDIA GeForce RTX 3050 Ti Mobile
+2023/Chae et al. - 2023 - E╠ütendue Expansion in Holographic Near Eye Displays through Sparse Eye-box Generation Using Lens Arra,NVIDIA Quadro P5000
+2023/Chae et al. - 2023 - E╠ütendue Expansion in Holographic Near Eye Displays through Sparse Eye-box Generation Using Lens Arra,NVIDIA GeForce RTX 3080
+2023/Chen et al. - 2023 - Shortest Path to Boundary for Self-Intersecting Meshes,NVIDIA GeForce RTX 3080 Ti
+2023/Chermain et al. - 2023 - Orientable Dense Cyclic Infill for Anisotropic Appearance Fabrication,NVIDIA GeForce RTX 2080
+2023/Cordonnier et al. - 2023 - Forming Terrains by Glacial Erosion,NVIDIA RTX A500
+"2023/Cui et al. - 2023 - Dense, Interlocking-Free and Scalable Spectral Packing of Generic 3D Objects",NVIDIA GeForce RTX 3090 Ti
+2023/Deschaintre et al. - 2023 - The Visual Language of Fabrics,NVIDIA GeForce RTX 3090
+2023/Gal et al. - 2023 - Encoder-based Domain Tuning for Fast Personalization of Text-to-Image Models,NVIDIA A100X
+2023/Gao et al. - 2023 - SketchFaceNeRF Sketch-based Facial Generation and Editing in Neural Radiance Fields,NVIDIA GeForce RTX 3090
+2023/Hsu et al. - 2023 - Sag-Free Initialization for Strand-Based Hybrid Hair Simulation,NVIDIA GeForce RTX 3090
+2023/Huang et al. - 2023 - ArrangementNet Learning Scene Arrangements for Vectorized Indoor Scene Modeling,NVIDIA GeForce RTX 3090
+2023/Huang et al. - 2023 - Patternshop Editing Point Patterns by Image Manipulation,NVIDIA GeForce RTX 2080
+2023/Jeschke and Wojtan - 2023 - Generalizing Shallow Water Simulations with Dispersive Surface Waves,NVIDIA GeForce RTX 2080 Max-Q
+2023/Jones et al. - 2023 - B-rep Matching for Collaborating Across CAD Systems,NVIDIA GeForce RTX 2080 Ti
+2023/Jones et al. - 2023 - ShapeCoder Discovering Abstractions for Visual Programs from Unstructured Primitives,NVIDIA GeForce RTX 3090 Ti
+2023/Kim and Lee - 2023 - Potentially Visible Hidden-Volume Rendering for Multi-View Warping,NVIDIA GeForce RTX 3090
+2023/Kirschstein et al. - 2023 - NeRSemble Multi-view Radiance Field Reconstruction of Human Heads,NVIDIA RTX A6000
+2023/Lai et al. - 2023 - Ôêç-Prox Differentiable Proximal Algorithm Modeling for Large-Scale Optimization,NVIDIA A100X
+2023/Lan et al. - 2023 - Second-order Stencil Descent for Interior-point Hyperelasticity,NVIDIA GeForce RTX 3090
+2023/Li and Desbrun - 2023 - Fluid-Solid Coupling in Kinetic Two-Phase Flow Simulation,NVIDIA RTX A6000
+2023/Li et al. - 2023 - Example-based Motion Synthesis via Generative Motion Matching,NVIDIA Tesla V100 PCIe 16 GB
+2023/Lyu et al. - 2023 - Building a Virtual Weakly-Compressible Wind Tunnel Testing Facility,NVIDIA A100X
+2023/Maggiordomo et al. - 2023 - Micro-Mesh Construction,NVIDIA GeForce RTX 4090
+2023/Pandey et al. - 2023 - Juxtaform interactive visual summarization for exploratory shape design,NVIDIA GeForce RTX 3060 Mobile
+2023/Pang et al. - 2023 - Bodyformer Semantics-guided 3D Body Gesture Synthesis with Transformer,NVIDIA GeForce RTX 2080 Ti
+2023/Reed et al. - 2023 - Neural Volumetric Reconstruction for Coherent Synthetic Aperture Sonar,NVIDIA GeForce RTX 3090 Ti
+2023/Reiser et al. - 2023 - MERF Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes,NVIDIA GeForce RTX 3090
+"2023/Shacklett et al. - 2023 - An Extensible, Data-Oriented Architecture for High-Performance, Many-World Simulation",NVIDIA GeForce RTX 4090
+2023/Sharma et al. - 2023 - Materialistic Selecting Similar Materials in Images,NVIDIA A10G
+2023/Shen et al. - 2023 - CT2Hair High-Fidelity 3D Hair Modeling using Computed Tomography,NVIDIA GeForce RTX 3090
+2023/Shen et al. - 2023 - Scratch-based Reflection Art via Differentiable Rendering,NVIDIA GeForce RTX 3090
+2023/Song et al. - 2023 - Guided Linear Upsampling,NVIDIA GeForce GTX 1650
+2023/Trevithick et al. - 2023 - Real-Time Radiance Fields for Single-Image Portrait View Synthesis,NVIDIA GeForce RTX 3090
+2023/Vaidyanathan et al. - 2023 - Random-Access Neural Compression of Material Textures,NVIDIA GeForce RTX 4090
+2023/Voglreiter et al. - 2023 - Trim Regions for Online Computation of From-Region Potentially Visible Sets,NVIDIA GeForce RTX 4090
+2023/Voglreiter et al. - 2023 - Trim Regions for Online Computation of From-Region Potentially Visible Sets,NVIDIA TITAN Xp
+2023/Wang - 2023 - OctFormer Octree-based Transformers for 3D Point Clouds,NVIDIA GeForce RTX 3090
+2023/Weier et al. - 2023 - Neural Prefiltering for Correlation-Aware Levels of Detail,NVIDIA GeForce RTX 3080
+2023/Weinrauch et al. - 2023 - Effect-based Multi-viewer Caching for Cloud-native Rendering,NVIDIA GeForce RTX 3090 Ti
+2023/Weinrauch et al. - 2023 - Effect-based Multi-viewer Caching for Cloud-native Rendering,NVIDIA RTX A6000
+2023/Xia et al. - 2023 - A Practical Wave Optics Reflection Model for Hair and Fur,NVIDIA GeForce RTX 3090
+2023/Xiong et al. - 2023 - ETER Elastic Tessellation for Real-Time Pixel-Accurate Rendering of Large-Scale NURBS Models,NVIDIA GeForce RTX 3090 Ti
+2023/Xu et al. - 2023 - Composite Motion Learning with Task Control,NVIDIA Tesla V100 PCIe 16 GB
+2023/Xu et al. - 2023 - Globally Consistent Normal Orientation for Point Clouds by Regularizing the Winding-Number Field,NVIDIA GeForce RTX 3090
+2023/Xue et al. - 2023 - Improved Water Sound Synthesis using Coupled Bubbles,NVIDIA GeForce RTX 4090
+2023/Zhang et al. - 2023 - HACK Learning a Parametric Head and Neck Model for High-fidelity Animation,NVIDIA TITAN Xp
+2023/Zhang et al. - 2023 - Learning Physically Simulated Tennis Skills from Broadcast Videos,NVIDIA A100 PCIe 40 GB
+2023/Zhang et al. - 2023 - Pyramid Texture Filtering,NVIDIA GeForce RTX 3090 Ti
+2023/Zheng et al. - 2023 - AvatarReX Real-time Expressive Full-body Avatars,NVIDIA GeForce RTX 3090
+2023/Zheng et al. - 2023 - Locally Attentional SDF Diffusion for Controllable 3D Shape Generation,NVIDIA GeForce GTX 1080 Ti
+2024/Amador Herrera et al. - 2024 - Cyclogenesis Simulating Hurricanes and Tornadoes,NVIDIA GeForce RTX 2080 Ti
+2024/Bai et al. - 2024 - Universal Facial Encoding of Codec Avatars from VR Headsets,NVIDIA GeForce RTX 3090
+2024/Bai et al. - 2024 - Universal Facial Encoding of Codec Avatars from VR Headsets,NVIDIA A100X
+2024/Cai et al. - 2024 - NeuralTO Neural Reconstruction and View Synthesis of Translucent Objects,NVIDIA GeForce RTX 3090
+2024/Chen et al. - 2024 - Lightning-fast Method of Fundamental Solutions,NVIDIA RTX A6000
+2024/Chen et al. - 2024 - Lightning-fast Method of Fundamental Solutions,NVIDIA GeForce RTX 3060 Mobile
+2024/Chen et al. - 2024 - Temporally Stable Metropolis Light Transport Denoising using Recurrent Transformer Blocks,NVIDIA A100X
+2024/Chen et al. - 2024 - Vertex Block Descent,NVIDIA GeForce RTX 4090
+2024/Dong et al. - 2024 - NeurCADRecon Neural Representation for Reconstructing CAD Surfaces by Enforcing Zero Gaussian Curva,NVIDIA GeForce RTX 3090
+2024/Fan et al. - 2024 - Conditional Mixture Path Guiding for Differentiable Rendering,NVIDIA GeForce RTX 4080
+2024/Fan et al. - 2024 - Specular Polynomials,NVIDIA GeForce RTX 4080
+2024/Gao et al. - 2024 - DiffCAD Weakly-Supervised Probabilistic CAD Model Retrieval and Alignment from an RGB Image,NVIDIA RTX A6000
+2024/Ge et al. - 2024 - Creating LEGO Figurines from Single Images,NVIDIA A100X
+2024/Gillespie et al. - 2024 - Ray Tracing Harmonic Functions,NVIDIA GeForce RTX 3090 Ti
+2024/Gillespie et al. - 2024 - Ray Tracing Harmonic Functions,NVIDIA GeForce RTX 3090
+2024/Groth et al. - 2024 - Cybersickness Reduction via Gaze-Contingent Image Deformation,NVIDIA GeForce RTX 4090
+2024/Gu et al. - 2024 - Target-Aware Image Denoising for Inverse Monte Carlo Rendering,NVIDIA GeForce RTX 3090
+2024/Hsu et al. - 2024 - Real-time Physically Guided Hair Interpolation,NVIDIA GeForce RTX 4090
+2024/Hsu et al. - 2024 - Real-time Physically Guided Hair Interpolation,NVIDIA GeForce RTX 3080
+2024/Hsu et al. - 2024 - Real-time Physically Guided Hair Interpolation,NVIDIA GeForce GTX 1080
+2024/Huang et al. - 2024 - Spatial and Surface Correspondence Field for Interaction Transfer,NVIDIA TITAN V
+2024/Jain et al. - 2024 - Efficient Debris-flow Simulation for Steep Terrain Erosion,NVIDIA RTX A6000
+2024/Kerbl et al. - 2024 - A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets,NVIDIA GeForce RTX 4090
+2024/Kerbl et al. - 2024 - A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets,NVIDIA GeForce RTX 4080
+2024/Kerbl et al. - 2024 - A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets,NVIDIA Tesla V100 PCIe 16 GB
+2024/Kerbl et al. - 2024 - A Hierarchical 3D Gaussian Representation for Real-Time Rendering of Very Large Datasets,NVIDIA RTX A6000
+2024/Li et al. - 2024 - Kinetic Simulation of Turbulent Multifluid Flows,NVIDIA GeForce RTX 4090
+2024/Li et al. - 2024 - Kinetic Simulation of Turbulent Multifluid Flows,NVIDIA T400
+2024/Liu et al. - 2024 - Automatic Digital Garment Initialization from Sewing Patterns,NVIDIA GeForce RTX 4090
+2024/Liu et al. - 2024 - Neural Slicer for Multi-Axis 3D Printing,NVIDIA GeForce RTX 4080
+2024/Liu et al. - 2024 - SketchDream Sketch-based Text-To-3D Generation and Editing,NVIDIA RTX A6000
+2024/Liu et al. - 2024 - SketchDream Sketch-based Text-To-3D Generation and Editing,NVIDIA A100 PCIe 40 GB
+2024/Lu et al. - 2024 - Real-Time Path Guiding Using Bounding Voxel Sampling,NVIDIA GeForce RTX 3070
+2024/Lucas et al. - 2024 - A Fully-correlated Anisotropic Micrograin BSDF Model,NVIDIA GeForce RTX 2080
+2024/Maesumi et al. - 2024 - One Noise to Rule Them All Learning a Unified Model of Spatially-Varying Noise Patterns,NVIDIA GeForce RTX 3090
+2024/Miki and Mitchell - 2024 - Alignment conditions for NURBS-based design of mixed tension-compression grid shells,NVIDIA GeForce RTX 3070
+2024/Miller et al. - 2024 - WalkinÔÇÖ Robin Walk on Stars with Robin Boundary Conditions,NVIDIA GeForce RTX 3090
+2024/Mujkanovic et al. - 2024 - Neural Gaussian Scale-Space Fields,NVIDIA A40 PCIe
+2024/Ni et al. - 2024 - An Induce-on-Boundary Magnetostatic Solver for Grid-Based Ferrofluids,NVIDIA GeForce RTX 4090
+2024/Pajouheshgar et al. - 2024 - Mesh Neural Cellular Automata,NVIDIA A100X
+2024/Palmer et al. - 2024 - Lifting Directional Fields to Minimal Sections,NVIDIA A100 PCIe 40 GB
+2024/Peng et al. - 2024 - CharacterGen Efficient 3D Character Generation from Single Images with Multi-View Pose Canonicaliza,NVIDIA A800 PCIe 40 GB
+2024/Peng et al. - 2024 - X-SLAM Scalable Dense SLAM for Task-aware Optimization using CSFD,NVIDIA GeForce RTX 4090
+2024/Peng et al. - 2024 - X-SLAM Scalable Dense SLAM for Task-aware Optimization using CSFD,NVIDIA GeForce RTX 2070
+2024/Radl et al. - 2024 - StopThePop Sorted Gaussian Splatting for View-Consistent Real-time Rendering,NVIDIA GeForce RTX 4090
+2024/Reiser et al. - 2024 - Binary Opacity Grids Capturing Fine Geometric Detail for Mesh-Based View Synthesis,NVIDIA GeForce RTX 3090
+2024/Ren et al. - 2024 - LightFormer Light-Oriented Global Neural Rendering in Dynamic Scene,NVIDIA RTX A6000
+2024/Schott et al. - 2024 - Terrain Amplification using Multi Scale Erosion,NVIDIA GeForce RTX 3080
+2024/Shi et al. - 2024 - Interactive Character Control with Auto-Regressive Motion Diffusion Models,NVIDIA GeForce RTX 4090
+2024/Starke et al. - 2024 - Categorical Codebook Matching for Embodied Character Controllers,NVIDIA GeForce RTX 4090
+2024/Sun et al. - 2024 - DiffPoseTalk Speech-Driven Stylistic 3D Facial Animation and Head Pose Generation via Diffusion Mod,NVIDIA GeForce RTX 3090
+2024/Tariq and Didyk - 2024 - Towards Motion Metamers for Foveated Rendering,NVIDIA GeForce RTX 4090
+"2024/Williams et al. - 2024 - fVDB  A Deep-Learning Framework for Sparse, Large Scale, and High Performance Spatial Intelligence",NVIDIA RTX 6000 Ada Generation
+"2024/Williams et al. - 2024 - fVDB  A Deep-Learning Framework for Sparse, Large Scale, and High Performance Spatial Intelligence",NVIDIA GeForce RTX 3090 Ti
+"2024/Williams et al. - 2024 - fVDB  A Deep-Learning Framework for Sparse, Large Scale, and High Performance Spatial Intelligence",NVIDIA GeForce RTX 4090
+2024/Wu et al. - 2024 - BlockFusion Expandable 3D Scene Generation using Latent Tri-plane Extrapolation,NVIDIA Tesla V100 PCIe 16 GB
+2024/Wu et al. - 2024 - Portrait3D Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Pr,NVIDIA GeForce RTX 4090
+2024/Wu et al. - 2024 - Portrait3D Text-Guided High-Quality 3D Portrait Generation Using Pyramid Representation and GANs Pr,NVIDIA GeForce RTX 3080 Ti
+2024/Xu et al. - 2024 - BrepGen A B-rep Generative Diffusion Model with Structured Latent Geometry,NVIDIA RTX A5000
+2024/Yan et al. - 2024 - Deep Sketch Vectorization via Implicit Surface Extraction,NVIDIA A100X
+2024/Yan et al. - 2024 - Deep Sketch Vectorization via Implicit Surface Extraction,NVIDIA GeForce GT 555M 3 GB
+2024/Yang et al. - 2024 - Learning a Generalized Physical Face Model From Data,NVIDIA RTX A6000
+2024/Yao et al. - 2024 - MoConVQ Unified Physics-Based Motion Control via Scalable Discrete Representations,NVIDIA GeForce RTX 3090
+2024/Yi et al. - 2024 - Spin-Weighted Spherical Harmonics for Polarized Light Transport,NVIDIA GeForce RTX 4090
+2024/Yu and Wang - 2024 - Super-Resolution Cloth Animation with Spatial and Temporal Coherence,NVIDIA GeForce RTX 4090
+2024/Yu et al. - 2024 - 3D-Layers Bringing Layer-Based Color Editing to VR Painting,NVIDIA GeForce RTX 2080
+2024/Zhang and Agrawala - 2024 - Transparent Image Layer Diffusion using Latent Transparency,NVIDIA GeForce RTX 3070
+2024/Zhang and Agrawala - 2024 - Transparent Image Layer Diffusion using Latent Transparency,NVIDIA GeForce RTX 4090
+2024/Zhang et al. - 2024 - Area ReSTIR Resampling for Real-Time Defocus and Antialiasing,NVIDIA GeForce RTX 4090
+2024/Zhang et al. - 2024 - CLAY A Controllable Large-scale Generative Model for Creating High-quality 3D Assets,NVIDIA A100X
+2024/Zhang et al. - 2024 - CLAY A Controllable Large-scale Generative Model for Creating High-quality 3D Assets,NVIDIA A800 PCIe 40 GB
+2024/Zhang et al. - 2024 - DreamMat High-quality PBR Material Generation with Geometry- and Light-aware Diffusion Models,NVIDIA GeForce RTX 4090
+2024/Zhang et al. - 2024 - Semantic Gesticulator Semantics-Aware Co-Speech Gesture Synthesis,NVIDIA GeForce RTX 3090 Ti
+2024/Zhang et al. - 2024 - Text-to-Vector Generation with Neural Path Representation,NVIDIA GeForce RTX 3090
+2024/Zheng et al. - 2024 - Proxy Asset Generation for Cloth Simulation in Games,NVIDIA GeForce RTX 3090
+2024/Zhou et al. - 2024 - Eulerian-Lagrangian Fluid Simulation on Particle Flow Maps,NVIDIA GeForce RTX 3080
+2024/Zhou et al. - 2024 - Eulerian-Lagrangian Fluid Simulation on Particle Flow Maps,NVIDIA RTX A6000
